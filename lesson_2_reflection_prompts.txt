@@ -19,3 +19,7 @@ When you're working on something new that's experimental and you're not sure tha
 How do the diagrams help you visualize the branch structure?
 
 Diagrams allow you to see at a glance how many branches there are and how those branches relate to the master branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The pro's are that a lot of typing is saved.  The cons are that some things could be introduced silently that are actually a big deal.
