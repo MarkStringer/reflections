@@ -15,3 +15,7 @@ You can just put into staging the files that are relevant to one particular chan
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When you're working on something new that's experimental and you're not sure that you want to make this the main branch.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams allow you to see at a glance how many branches there are and how those branches relate to the master branch.
