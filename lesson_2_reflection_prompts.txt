@@ -5,3 +5,13 @@ git creates a .git directory but it doesn't commit any of the files in the direc
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area allows you to assemble what you want to put in a commit
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can just put into staging the files that are relevant to one particular change and then make a commit.
+
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you're working on something new that's experimental and you're not sure that you want to make this the main branch.
